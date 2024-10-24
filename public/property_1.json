@@ -1,0 +1,24 @@
+{
+    "name": "Property #1",
+    "description": "Luxury apartment in Nairobi's city center.",
+    "image": "https://praedium-metadata.io/property/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "Nairobi, Kenya"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Apartment"
+      },
+      {
+        "trait_type": "Value",
+        "value": "$500,000"
+      },
+      {
+        "trait_type": "Rental Income",
+        "value": "$3,000/month"
+      }
+    ]
+  }
+  
